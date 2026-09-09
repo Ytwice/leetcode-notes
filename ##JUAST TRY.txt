@@ -1,0 +1,3 @@
+##JUAST TRY
+def have_fun():
+    
